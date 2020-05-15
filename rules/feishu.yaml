@@ -1,0 +1,10 @@
+## feishu_webhook
+#alert:
+#  - "elastalert_modules.feishu_webhook_alert.FeiShuAlerter"
+#feishu_webhook: "https://open.feishu.cn/open-apis/bot/hook/xxx"
+## feishu
+alert:
+  - "elastalert_modules.feishu_alert.FeiShuAlerter"
+app_id: "xxx"
+app_secret: "xxx"
+email: "xxx"

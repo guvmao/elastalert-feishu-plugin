@@ -22,7 +22,7 @@
 
 ### 获取飞书企业自建应用授权凭证
 
-[授权凭证](https://open.feishu.cn/document/ukTMukTMukTM/uMTNz4yM1MjLzUzM)
-
 参阅  第一步：获取 App ID 和 App Secret
+
+[授权凭证](https://open.feishu.cn/document/ukTMukTMukTM/uMTNz4yM1MjLzUzM)
 
